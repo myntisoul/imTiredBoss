@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lore"
+              "title": "README"
             }
           }
         ]
@@ -196,11 +196,11 @@
   },
   "active": "8c840eb148a10ae9",
   "lastOpenFiles": [
+    "logs/gdd-log.md",
     "promt-list.md",
     "lore.md",
-    "README.md",
-    "logs/gdd-log.md",
     "GDD.md",
+    "README.md",
     "images/selected.md",
     "images/selected 1.md",
     "images/selected/b28fb797854d2826244b7e29e6a75207.png",
