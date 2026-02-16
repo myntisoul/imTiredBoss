@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD.md",
+                "file": "logs/gdd-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDD"
+              "title": "gdd-log"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "promt-list.md",
+                "file": "logs/gdd-log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура promt-list"
+              "title": "Структура gdd-log"
             }
           },
           {
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c840eb148a10ae9",
+  "active": "57ac2654c837450b",
   "lastOpenFiles": [
-    "logs/gdd-log.md",
     "GDD.md",
+    "logs/gdd-log.md",
     "README.md",
     "promt-list.md",
     "lore.md",
