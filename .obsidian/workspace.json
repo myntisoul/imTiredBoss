@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDD"
+              "title": "README"
             }
           },
           {
@@ -210,8 +210,8 @@
   },
   "active": "8c840eb148a10ae9",
   "lastOpenFiles": [
-    "logs/gdd-log.md",
     "GDD.md",
+    "logs/gdd-log.md",
     "lore.md",
     "utility/templates/LLM-log.md",
     "utility/templates",
