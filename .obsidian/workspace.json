@@ -42,15 +42,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "GDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "GDD"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f9b1bd380ea91cdd",
@@ -244,13 +245,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d89b314e426fd363",
+  "active": "4b2e2b2a869d6a41",
   "lastOpenFiles": [
-    "GDD.md",
     "index.md",
     "logs/gdd-log.md",
-    "README.md",
     "utility/templates/LLM-log.md",
+    "README.md",
+    "GDD.md",
     "lore.md",
     "utility/templates",
     "utility",
