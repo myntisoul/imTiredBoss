@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/gdd-log.md",
+                "file": "shots/shot-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gdd-log"
+              "title": "shot-list"
             }
           }
         ]
@@ -232,8 +232,8 @@
   },
   "active": "8c840eb148a10ae9",
   "lastOpenFiles": [
-    "utility/templates/LLM-log.md",
     "logs/gdd-log.md",
+    "utility/templates/LLM-log.md",
     "shots/shot-list.md",
     "notes.md",
     "GDD.md",

@@ -635,3 +635,40 @@ scene: старая квартира простого рабочего 90-х и 
 >- **No "handsome" casting.** The protagonist is ordinary. Not ugly, but not memorable. He looks like any man who worked a factory job for twenty years and had the life slowly drained out of him.
 >- **No warm colors.** No golden hour light, no cozy warmth. The palette is grey, beige, faded yellow, worn brown. Life has leached out of this space.
 
+### сцена в особняке
+> [!question] mynti {{**.03.2026}}
+> 
+> ```
+> теперь помоги визуализировать тот диалог протагониста с офицером
+purpose: одна из важнейших сцен, один из переломных моментов, встреча двух противостоящих героев.
+scene: особняк важной шишки в городе, зачищенный протагонистом. кругом трупы, кровь, оружие. на первом этаже стоит протагонист с освобождённой им девочкой, жертвой владельца особняка. одежда (та же, что и в предыдущем описании) протагониста в крови, лицо усталое, измождённое, в глазах страх, нерешительность. на руках чёрные перчатки без пальцев. рядом девочка, еле-еле передвигающая ногами, в глазах пустота и ужас, на лице высохшие слёзы. она не истерит только потому что сил уже нет. 
+напротив них отряд спецназа. офицер - женщина лет тридцати, на лице решительность и страх. она кричит на протагониста, чтобы тот отпустил ребёнка. на протагониста направлены автоматы. любое резкое движение приведёт к смерти.
+> ```
+
+> [!todo] Answer with Deepseek {{**.03.2026}}
+>
+> ## English Prompt: The Confrontation (Protagonist & Officer)
+**Purpose:** One of the most important scenes in the game. A turning point where two opposing protagonists meet face to face. Establishes the moral weight of the story and the human cost behind the gameplay.
+**Scene:** The ground floor of a wealthy man's mansion. The protagonist has just finished a full sweep — bodies lie scattered, blood pools on expensive floors, discarded weapons rest against overturned furniture. The air is thick with gunpowder and death. In the center of the room, the protagonist stands with a young girl's hand in his. She is the victim, the one locked in the basement. His white t-shirt is now smeared with blood — not his own. His face is hollow, exhausted, the adrenaline fading into something heavier. His eyes show not rage, but *fear and uncertainty*. He wears black fingerless gloves. Beside him, the girl moves as if sleepwalking. Her legs barely carry her. Her face is blank — the hollow emptiness after all tears have been used. She is not crying because there is nothing left. Across the room, an elite police squad has him cornered. Muzzles are raised, laser sights tremble on his chest. The officer leads them — a woman in her thirties, tactical gear, face hardened by years of service. But behind the professional composure, something else flickers: *fear of what she might have to do, and hesitation she cannot fully suppress*. She shouts at him to release the child. One wrong move and the room erupts.
+**Camera:** Wide shot, low angle, positioned slightly behind the officer's squad. We see the full tableau: the armed team in focus in the foreground, the protagonist and the girl isolated in the background, framed by the chaos of the room. The distance between them feels both physical and moral.
+**Must-have:**
+>- **The protagonist:** The same man from his apartment, but transformed by violence. White t-shirt now stained with blood (splatter, not his). Jeans darkened with dirt and fluid. Black fingerless gloves, worn from use. Face: exhaustion deeper than sleep can fix. Eyes wide but not wild — he is *present*, he knows what he's done, and he is terrified of what comes next. He holds the girl's hand not as a shield, but as someone who is afraid to let go of the one thing he saved. His posture is not aggressive — shoulders slightly dropped, weight on back foot. He is not a threat in this moment, but the blood on him says otherwise.
+>- **The girl:** 8–10 years old. Dirty, underfed, wearing clothes that are too big (likely provided by her captor). Face: the emptiness of prolonged trauma. Eyes open but not seeing. Dried tear tracks on her cheeks. She is not clinging to the protagonist — she is simply there, too broken to resist, too exhausted to hope. Her hand in his is limp. She stands because her legs haven't given out yet. She is the moral fulcrum of the scene.
+>- **The officer:** Female, early 30s. Fit, professional. Tactical vest, helmet, assault rifle raised and aimed. Her stance is textbook — but her face tells another story. There is *resolve* — she knows her duty. But there is also *fear* — of the blood-soaked man before her, of the child in his grip, of the shot she may have to take. Her finger is on the trigger guard, not the trigger — a small detail showing she has not yet made the decision to fire. Her mouth is open, mid-command. Sweat on her brow.
+>- **The squad:** 3–4 operators in tactical gear, spread out, taking cover behind overturned furniture and doorframes. Their weapons are aimed. They are professional — no panic, just waiting for the order.
+>- **The room:** Upstairs mansion — expensive furniture, chandeliers, artwork on walls. Now torn apart by the protagonist's rampage. Bodies (suggested, not graphic) in the background: guards, staff, the owner. Weapons scattered. Bullet holes in walls, glass shattered. Blood on the marble floor. The contrast between wealth and violence is deliberate.
+**Nice-to-have:**
+>- A large window behind the protagonist, letting in grey morning light. He and the girl are backlit, silhouetted slightly — their faces in shadow, but their outlines clear.
+>- The officer's hand on the rifle trembles almost imperceptibly. A detail that shows her conflict without words.
+>- The girl's hand in the protagonist's — her fingers do not grip back. His hand is the only thing keeping her upright.
+>- One of the squad members has lowered their weapon slightly, just a fraction. Not following protocol. Human reaction to the girl.
+>- A family photograph on the wall behind the officer — intact, untouched. The owner's family. Irony of normalcy.
+>**Avoid:**
+>- **No glorification of violence.** The bodies are not "cool." They are messy, wrong, heavy. The scene should feel like a crime scene, not a cover shoot.
+>- **No heroic framing of the protagonist.** He is not a antihero striking a dramatic pose. He is a man who has done terrible things and is now trapped. Sympathetic? Possibly. Heroic? No.
+>- **No villainous framing of the officer.** She is not a cold killer. Her hesitation is not weakness — it's humanity. The scene should make the player understand *both* of them.
+>- **No overly dramatic lighting.** No shafts of divine light, no noir shadows. Grey morning light, flat and unforgiving. This is not a fantasy — it's reality at its heaviest.
+>- **The girl must not look "cute" or "precious."** She is a trauma victim, not a storybook innocent. Her emptiness should be painful to look at.
+>- **No excessive gore.** Blood is present, but the bodies are suggested, not lingered on. The focus is on the living.
+>- **No clear visual cues for who is "right."** The scene should not tell the player who to side with. The tension should remain unresolved.
+
