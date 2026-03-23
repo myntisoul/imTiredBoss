@@ -6,6 +6,7 @@
       {
         "id": "f5ad2774eaaaf610",
         "type": "tabs",
+        "dimension": 68.31501831501832,
         "children": [
           {
             "id": "8c840eb148a10ae9",
@@ -13,26 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shots/shot-list.md",
+                "file": "logs/gdd-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shot-list"
+              "title": "gdd-log"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b2700c4446ba9ea1",
+        "type": "tabs",
+        "dimension": 31.684981684981683,
+        "children": [
           {
-            "id": "8f0168c895095907",
+            "id": "e40cfb1ac4bd7e9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
+                "file": "utility/templates/LLM-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "LLM-log"
             }
           }
         ]
@@ -224,17 +232,17 @@
   },
   "active": "8c840eb148a10ae9",
   "lastOpenFiles": [
-    "GDD.md",
+    "utility/templates/LLM-log.md",
+    "logs/gdd-log.md",
+    "notes.md",
     "shots/shot-list.md",
+    "GDD.md",
     "shots/shot-list",
     "shots",
-    "notes.md",
     "lore.md",
     "gitignore.gitignore..txt",
     "Текстовый документ.txt",
-    "utility/templates/LLM-log.md",
     "original.md",
-    "logs/gdd-log.md",
     "utility/templates",
     "utility",
     "README.md",
