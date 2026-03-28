@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
+                "file": "scenario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "scenario"
             }
           },
           {
@@ -246,27 +246,28 @@
   },
   "active": "8c840eb148a10ae9",
   "lastOpenFiles": [
+    "promt-list.md",
+    "scenario.md",
+    "shots/shot-list.md",
+    "asset-list.md",
+    "GDD.md",
+    "index.md",
+    "lore.md",
+    "notes.md",
+    "original.md",
+    "README.md",
+    "utility/templates/LLM-log.md",
     "logs/promt-plan.md",
     "outputs/selected",
     "outputs",
-    "shots/shot-list.md",
-    "utility/templates/LLM-log.md",
     "logs/gdd-log.md",
     "shots",
-    "notes.md",
-    "promt-list.md",
-    "GDD.md",
-    "original.md",
-    "README.md",
-    "index.md",
-    "lore.md",
     "utility/templates",
     "utility",
     "images/selected.md",
     "images/selected 1.md",
     "images/selected/b28fb797854d2826244b7e29e6a75207.png",
     "images/selected",
-    "asset-list.md",
     "logs",
     "images/raw/wehfwuf.md",
     "images/raw",
