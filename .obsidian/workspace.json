@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD.md",
+                "file": "scenario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDD"
+              "title": "scenario"
             }
           },
           {
@@ -246,8 +246,8 @@
   },
   "active": "8c840eb148a10ae9",
   "lastOpenFiles": [
-    "styles/style-bible.md",
     "GDD.md",
+    "styles/style-bible.md",
     "styles",
     "logs/promt-plan.md",
     "logs/gdd-log.md",
