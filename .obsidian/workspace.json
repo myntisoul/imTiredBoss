@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4d1007b3c9fc79c",
+        "id": "f5ad2774eaaaf610",
         "type": "tabs",
         "children": [
           {
-            "id": "291a1ef62dd05030",
+            "id": "8d36404681ec2755",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,6 +22,49 @@
             }
           }
         ]
+      },
+      {
+        "id": "9ff68ea0b2e28499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f7c237842c00309",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "outputs/selected/`01-w04-location-oracle's-office.png"
+              },
+              "icon": "lucide-image",
+              "title": "`01-w04-location-oracle's-office"
+            }
+          },
+          {
+            "id": "1454de777c325fad",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "outputs/selected/`01-w04-character-protagonist.png"
+              },
+              "icon": "lucide-image",
+              "title": "`01-w04-character-protagonist"
+            }
+          },
+          {
+            "id": "901a4fee39bc631a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "outputs/selected/`01-w04-mood-officer-and-protagonist-scene.png"
+              },
+              "icon": "lucide-image",
+              "title": "`01-w04-mood-officer-and-protagonist-scene"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,6 +115,20 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Закладки"
+            }
+          },
+          {
+            "id": "94d417ccda26d660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "utility/templates/LLM-log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM-log"
             }
           }
         ]
@@ -156,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "promt-list.md",
+                "file": "logs/gdd-log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура promt-list"
+              "title": "Структура gdd-log"
             }
           },
           {
@@ -194,48 +251,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57742dbc2995de51",
+  "active": "8d36404681ec2755",
   "lastOpenFiles": [
-    "outputs/all/ComfyUI_00089_.png",
-    "outputs/all/ComfyUI_00090_.png",
-    "outputs/all/ComfyUI_00093_.png",
-    "outputs/all/ComfyUI_00070_.png",
-    "outputs/all/ComfyUI_00062_.png",
-    "outputs/all/ComfyUI_00061_.png",
-    "outputs/all/ComfyUI_00054_.png",
-    "outputs/all/ComfyUI_00053_.png",
-    "outputs/all/ComfyUI_00051_.png",
-    "outputs/all/ComfyUI_00047_.png",
-    "outputs/all/ComfyUI_00045_.png",
-    "outputs/all",
-    "shots/shot-list.md",
+    "outputs/selected/`01-w04-mood-officer-and-protagonist-scene.png",
     "logs/workflow-notes.md",
-    "workflows/w04_flux1-dev-fp8_txt2img.json",
-    "workflows",
-    "Новая папка",
-    "GDD.md",
-    "logs/promt-plan.md",
-    "utility/merge-conflicts.md",
-    "original.md",
+    "outputs/selected/`01-w04-character-protagonist.png",
+    "`01-w04-location-oracle's-office.md",
+    "outputs/selected/`01-w04-location-oracle's-office.png",
+    "кабинет оракула.md",
     "logs/gdd-log.md",
+    "outputs/selected/`01-w04-moodshot-officer-and-protagonist-scene.png",
+    "outputs/selected/`01-w04-.png",
+    "outputs/selected/ComfyUI_00076_.png",
+    "utility/templates/LLM-log.md",
+    "outputs/all/Anima_00001_.png",
+    "outputs/all/aee9f9cd-acb2-4fef-9bdf-a1d44acd7d36.jpg",
+    "scenario.md",
+    "workflows/w04_flux1-dev-fp8_txt2img.json",
+    "utility/merge-conflicts.md",
+    "outputs/selected",
+    "outputs/all/oracle.jpg",
+    "outputs/all/Gemini_Generated_Image_yj9xwsyj9xwsyj9x.png",
+    "outputs/all",
+    "outputs",
+    "GDD.md",
     "styles/style-bible.md",
     "styles",
-    "conflict-files-obsidian-git.md",
-    "utility/templates/LLM-log.md",
-    "scenario.md",
-    "promt-list.md",
-    "asset-list.md",
-    "index.md",
-    "lore.md",
+    "logs/promt-plan.md",
     "notes.md",
-    "README.md",
-    "outputs/selected",
-    "outputs",
+    "shots/shot-list.md",
+    "shots/shot-list",
     "shots",
+    "lore.md",
+    "gitignore.gitignore..txt",
+    "Текстовый документ.txt",
+    "original.md",
     "utility/templates",
-    "utility",
+    "README.md",
+    "promt-list.md",
     "images/selected.md",
     "images/selected 1.md",
+    "index.md",
+    "asset-list.md",
     "images/raw/wehfwuf.md"
   ]
 }
