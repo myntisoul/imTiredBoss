@@ -1,0 +1,6 @@
+- **model**: flux.1 dev fp8
+- **seed**: 400409799148377
+- **steps**: 20
+- **cfg**: 4.0
+- **sampler**: euler
+- **latent size**: 512x512
