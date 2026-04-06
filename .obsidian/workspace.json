@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d4d1007b3c9fc79c",
+        "id": "f5ad2774eaaaf610",
         "type": "tabs",
         "children": [
           {
-            "id": "291a1ef62dd05030",
+            "id": "8d36404681ec2755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "styles/style-bible.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "style-bible"
+            }
+          },
+          {
+            "id": "059762cc98f8061f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,6 +86,20 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Закладки"
+            }
+          },
+          {
+            "id": "94d417ccda26d660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "utility/templates/LLM-log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM-log"
             }
           }
         ]
@@ -156,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "promt-list.md",
+                "file": "logs/gdd-log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура promt-list"
+              "title": "Структура gdd-log"
             }
           },
           {
@@ -194,47 +222,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "291a1ef62dd05030",
+  "active": "8d36404681ec2755",
   "lastOpenFiles": [
     "logs/workflow-notes.md",
+    "scenario.md",
     "outputs/selected/`01-w04-character-messiah.png",
     "logs/promt-plan.md",
-    "outputs/all/ComfyUI_00158_.png",
-    "scenario.md",
-    "outputs/all/ComfyUI_00127_.png",
-    "outputs/all/ComfyUI_00122_.png",
-    "outputs/all/ComfyUI_00111_.png",
-    "outputs/all/ComfyUI_00109_.png",
-    "outputs/all/ComfyUI_00108_.png",
-    "outputs/all/ComfyUI_00104_.png",
-    "outputs/all/ComfyUI_00101_.png",
-    "outputs/all/ComfyUI_00097_.png",
-    "outputs/all",
-    "shots/shot-list.md",
-    "workflows/w04_flux1-dev-fp8_txt2img.json",
-    "workflows",
-    "Новая папка",
     "GDD.md",
-    "utility/merge-conflicts.md",
-    "original.md",
+    "outputs/selected/`01-w04-character-protagonist.png",
+    "outputs/selected/`01-w04-mood-officer-and-protagonist-scene.png",
+    "`01-w04-location-oracle's-office.md",
+    "outputs/selected/`01-w04-location-oracle's-office.png",
+    "кабинет оракула.md",
     "logs/gdd-log.md",
+    "outputs/selected/`01-w04-moodshot-officer-and-protagonist-scene.png",
+    "outputs/selected/`01-w04-.png",
+    "outputs/selected/ComfyUI_00076_.png",
+    "utility/templates/LLM-log.md",
+    "outputs/all/Anima_00001_.png",
+    "outputs/all/aee9f9cd-acb2-4fef-9bdf-a1d44acd7d36.jpg",
+    "workflows/w04_flux1-dev-fp8_txt2img.json",
+    "utility/merge-conflicts.md",
+    "outputs/selected",
+    "outputs/all/oracle.jpg",
+    "outputs/all",
+    "outputs",
     "styles/style-bible.md",
     "styles",
-    "conflict-files-obsidian-git.md",
-    "utility/templates/LLM-log.md",
-    "promt-list.md",
-    "asset-list.md",
-    "index.md",
-    "lore.md",
     "notes.md",
-    "README.md",
-    "outputs/selected",
-    "outputs",
+    "shots/shot-list.md",
+    "shots/shot-list",
     "shots",
+    "lore.md",
+    "gitignore.gitignore..txt",
+    "Текстовый документ.txt",
+    "original.md",
     "utility/templates",
-    "utility",
+    "README.md",
+    "promt-list.md",
     "images/selected.md",
     "images/selected 1.md",
+    "index.md",
+    "asset-list.md",
     "images/raw/wehfwuf.md"
   ]
 }
