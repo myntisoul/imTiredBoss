@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD.md",
+                "file": "scenario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDD"
+              "title": "scenario"
             }
           },
           {
@@ -224,12 +224,12 @@
   },
   "active": "8d36404681ec2755",
   "lastOpenFiles": [
+    "GDD.md",
     "styles/style-bible.md",
     "logs/workflow-notes.md",
     "scenario.md",
     "outputs/selected/`01-w04-character-messiah.png",
     "logs/promt-plan.md",
-    "GDD.md",
     "outputs/selected/`01-w04-character-protagonist.png",
     "outputs/selected/`01-w04-mood-officer-and-protagonist-scene.png",
     "`01-w04-location-oracle's-office.md",
