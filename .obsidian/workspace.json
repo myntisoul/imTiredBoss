@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/asset-list.md",
+                "file": "refs/character_oracle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asset-list"
+              "title": "character_oracle"
             }
           },
           {
@@ -27,16 +27,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refs/character_oracle.md",
+                "file": "logs/gdd-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "character_oracle"
+              "title": "gdd-log"
+            }
+          },
+          {
+            "id": "1a458500645a09f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "utility/templates/LLM-log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM-log"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,17 +236,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a4e665a096aad2f",
+  "active": "059762cc98f8061f",
   "lastOpenFiles": [
+    "logs/gdd-log.md",
+    "utility/templates/LLM-log.md",
+    "refs/character_oracle.md",
+    "assets/asset-list.md",
     "refs/1f2920552357eea768781d43f5d2c241.jpg",
     "refs/Не подтвержден 551448.crdownload",
     "README.md",
     "original.md",
-    "refs/character_oracle.md",
     "scenario.md",
     "Без названия.md",
     "refs",
-    "assets/asset-list.md",
     "assets/ComfyUI_00262_.png",
     "assets/ComfyUI_00261_.png",
     "assets/ComfyUI_00258_.png",
@@ -243,7 +258,6 @@
     "assets/ComfyUI_00240_.png",
     "assets/ComfyUI_00238_.png",
     "assets/ComfyUI_00237_.png",
-    "assets/ComfyUI_00227_.png",
     "assets",
     "styles/style-bible.md",
     "GDD.md",
@@ -255,8 +269,6 @@
     "logs/promt-plan.md",
     "`01-w04-location-oracle's-office.md",
     "кабинет оракула.md",
-    "logs/gdd-log.md",
-    "utility/templates/LLM-log.md",
     "workflows/w04_flux1-dev-fp8_txt2img.json",
     "outputs/selected",
     "outputs/all",
