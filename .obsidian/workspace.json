@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utility/merge-conflicts.md",
+                "file": "refs/characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "merge-conflicts"
+              "title": "characters"
             }
           },
           {
@@ -253,13 +253,14 @@
   },
   "active": "5324a5e065591a91",
   "lastOpenFiles": [
+    "utility/templates/LLM-log.md",
+    "utility/merge-conflicts.md",
     "workflows/`w06_multiprompt`.json",
     "conflict-files-obsidian-git.md",
     "scenario.md",
     "refs/characters.md",
     "design/constants.md",
     "GDD.md",
-    "utility/merge-conflicts.md",
     "design",
     "outputs/selected/`07-w05-style-baseline-01.png`.png",
     "outputs/selected/`06-w05-style-b-03.png`.png",
@@ -274,7 +275,6 @@
     "logs/gdd-log.md",
     "Без названия.base",
     "logs/workflow-notes.md",
-    "utility/templates/LLM-log.md",
     "assets/asset-list.md",
     "refs/Не подтвержден 551448.crdownload",
     "README.md",
