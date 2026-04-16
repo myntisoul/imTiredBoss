@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refs/characters.md",
+                "file": "scenario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "characters"
+              "title": "scenario"
             }
           },
           {
@@ -253,14 +253,20 @@
   },
   "active": "5324a5e065591a91",
   "lastOpenFiles": [
+    "README.md",
+    "scenario.md",
+    "notes.md",
+    "original.md",
+    "index.md",
+    "lore.md",
+    "GDD.md",
+    "Без названия.base",
+    "refs/characters.md",
     "utility/templates/LLM-log.md",
     "utility/merge-conflicts.md",
     "workflows/`w06_multiprompt`.json",
     "conflict-files-obsidian-git.md",
-    "scenario.md",
-    "refs/characters.md",
     "design/constants.md",
-    "GDD.md",
     "design",
     "outputs/selected/`07-w05-style-baseline-01.png`.png",
     "outputs/selected/`06-w05-style-b-03.png`.png",
@@ -273,19 +279,14 @@
     "outputs/selected/`01-w04-location-oracle's-office.png",
     "outputs/selected/`01-w04-character-protagonist.png",
     "logs/gdd-log.md",
-    "Без названия.base",
     "logs/workflow-notes.md",
     "assets/asset-list.md",
     "refs/Не подтвержден 551448.crdownload",
-    "README.md",
-    "original.md",
     "Без названия.md",
     "refs",
     "assets",
     "styles/style-bible.md",
-    "notes.md",
     "aisd.md",
-    "index.md",
     "logs/promt-plan.md",
     "`01-w04-location-oracle's-office.md",
     "кабинет оракула.md",
@@ -294,7 +295,6 @@
     "outputs/all",
     "outputs",
     "shots/shot-list.md",
-    "lore.md",
     "promt-list.md",
     "images/selected.md",
     "images/selected 1.md"
