@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/hero.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hero"
+              "title": "README"
             }
           },
           {
@@ -210,6 +210,7 @@
   },
   "active": "291a1ef62dd05030",
   "lastOpenFiles": [
+    "characters/hero.md",
     "outputs/selected/`01-w06-scene-happy-dream`.png",
     "outputs/selected/ComfyUI_00327_.png",
     "outputs/selected/`01-w06-scene-oracle-and-victor`.png",
@@ -217,14 +218,12 @@
     "outputs/selected/`01-w06-scene-.png",
     "outputs/selected/ComfyUI_00285_.png",
     "scenario.md",
-    "characters/hero.md",
     "refs/characters.md",
     "design/logs/workflow-notes.md",
     "outputs/selected/`01-w04-character-protagonist.png",
     "outputs/selected/`01-w04-character-messiah.png",
     "outputs/selected/`01-w04-location-oracle's-office.png",
     "outputs/selected/`01-w04-mood-officer-and-protagonist-scene.png",
-    "outputs/selected/`01-w05-style-a-01.png`.png",
     "GDD.md",
     "characters",
     "workflows/`w06_multiprompt`.json",
