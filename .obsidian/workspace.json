@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refs/characters.md",
+                "file": "scenario (WIP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "characters"
+              "title": "scenario (WIP)"
             }
           },
           {
@@ -224,8 +224,8 @@
   },
   "active": "5324a5e065591a91",
   "lastOpenFiles": [
-    "GDD.md",
     "refs/characters.md",
+    "GDD.md",
     "index.md",
     "original.md",
     "lore.md",
