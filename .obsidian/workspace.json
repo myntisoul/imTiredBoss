@@ -49,8 +49,7 @@
               "title": "workflow-notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,8 +222,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c0b8d9faa5b009a",
+  "active": "291a1ef62dd05030",
   "lastOpenFiles": [
+    "characters/hero.md",
     "outputs/selected/08-canny-scene-01.png",
     "workflows/w08_canny.json",
     "outputs/selected/ComfyUI_00410_.png",
@@ -245,10 +245,8 @@
     "outputs/selected/02-w07-outpaint-after.png",
     "outputs/selected/ComfyUI_00375_.png",
     "outputs/selected/01-w07-outpaint-before.png",
-    "outputs/selected/01-w06-scene-happy-dream2 — копия.png",
     "utility/merge-conflicts.md",
     "todo.md",
-    "characters/hero.md",
     "workflows/w07_inpaint.json",
     "workflows/w07_img2img.json",
     "workflows/w06_multiprompt.json",
