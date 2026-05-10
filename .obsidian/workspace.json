@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shots/shot-list.md",
+                "file": "scenario (WIP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shot-list"
+              "title": "scenario (WIP)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refs/controlnet.md",
+                "file": "characters/hero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "controlnet"
+              "title": "hero"
             }
           },
           {
@@ -225,11 +225,20 @@
   },
   "active": "0c0b8d9faa5b009a",
   "lastOpenFiles": [
-    "refs/canny.png",
-    "scenario (WIP).md",
+    "outputs/selected/08-canny-scene-01.png",
+    "workflows/w08_canny.json",
+    "outputs/selected/ComfyUI_00410_.png",
+    "outputs/selected/ComfyUI_00419_.png",
+    "refs/canny3.png",
+    "refs/canny2.tif",
+    "refs/canny1.png",
+    "refs/characters.md",
     "shots/shot-list.md",
-    "GDD.md",
+    "scenario (WIP).md",
     "design/logs/workflow-notes.md",
+    "refs/controlnet.md",
+    "refs/canny.png",
+    "GDD.md",
     "outputs/selected/01-w06-scene-turning-point.png",
     "workflows/w07_outpaint.json",
     "workflows/w07_img2imw07_outpaint.json",
@@ -238,17 +247,10 @@
     "outputs/selected/01-w07-outpaint-before.png",
     "outputs/selected/01-w06-scene-happy-dream2 — копия.png",
     "utility/merge-conflicts.md",
-    "refs/controlnet.md",
     "todo.md",
     "characters/hero.md",
-    "outputs/selected/01-w06-scene-happy-dream.png",
-    "outputs/selected/01-w06-scene-happy-dream2.png",
-    "outputs/selected/01-w06-scene-oracle-and-victor.png",
-    "outputs/selected/01-w05-style-a-01.png.png",
-    "outputs/selected/03-w05-style-a-03.png.png",
     "workflows/w07_inpaint.json",
     "workflows/w07_img2img.json",
-    "refs/characters.md",
     "workflows/w06_multiprompt.json",
     "workflows/w07_img2img_inpaint_outpaint.json",
     "README.md",
@@ -256,8 +258,6 @@
     "scenario.md",
     "characters",
     "workflows/`w06_multiprompt`.json",
-    "Без названия.base",
-    "refs",
     "design/constants.md",
     "assets/asset-list.md",
     "design/logs/promt-plan.md",
