@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenario (WIP).md",
+                "file": "scenario-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scenario (WIP)"
+              "title": "scenario-notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,17 +237,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5324a5e065591a91",
+  "active": "c8024eee20bebca6",
   "lastOpenFiles": [
-    "GDD.md",
+    "utility/templates/LLM-log.md",
+    "scenario-notes.md",
     "scenario (WIP).md",
+    "design/logs/workflow-notes.md",
+    "GDD.md",
     "README.md",
     "outputs/selected/08-canny-scene-01.png",
     "refs/canny3.png",
-    "notes.md",
     "shots/shot-list.md",
     "todo.md",
-    "utility/templates/LLM-log.md",
     "workflows/w08_canny.json",
     "refs/canny1.png",
     "refs/canny.png",
@@ -262,7 +264,6 @@
     "Без названия.base",
     "workflows/w07_inpaint.json",
     "workflows/w07_img2img.json",
-    "design/logs/workflow-notes.md",
     "workflows/w07_img2img_inpaint_outpaint.json",
     "workflows/w06_multiprompt.json",
     "styles/style-bible.md",
